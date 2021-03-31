@@ -98,6 +98,8 @@
 
 - # [Naver TV](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/NaverTV.yaml)
 
+- # [Netflix](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/Netflix.yaml)
+
 - # [Niconico](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/Niconico.yaml)
 
 - # [Nikkei](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/Nikkei.yaml)

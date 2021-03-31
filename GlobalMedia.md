@@ -98,6 +98,8 @@
 
 - # [Naver TV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/NaverTV.list)
 
+- # [Netflix](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Netflix.list)
+
 - # [Niconico](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Niconico.list)
 
 - # [Nikkei](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Nikkei.list)

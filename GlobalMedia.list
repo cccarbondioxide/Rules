@@ -614,7 +614,7 @@ DOMAIN-SUFFIX,myfoxsanfran.com
 ## > friDay
 DOMAIN-SUFFIX,fetnet.net
 DOMAIN-SUFFIX,friday.tw
-## > HBO NOW & HBO GO HKG
+## > HBO GO HKG & HBO MAX
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
 DOMAIN-SUFFIX,cinemax.com
@@ -631,13 +631,10 @@ DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,manifest.prod.boltdns.net
 DOMAIN-SUFFIX,maxgo.com
-DOMAIN-SUFFIX,now-ashare.com
-DOMAIN-SUFFIX,now-tv.com
-DOMAIN-SUFFIX,now.com.hk
-DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,players.brightcove.net
 DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
@@ -645,6 +642,12 @@ DOMAIN-SUFFIX,dai3fd1oh325y.cloudfront.net
 DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
 DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
+## >> HBO NOW
+DOMAIN-SUFFIX,now-ashare.com
+DOMAIN-SUFFIX,now-tv.com
+DOMAIN-SUFFIX,now.com.hk
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,nowe.hk
 ## > Huffpost
 DOMAIN-SUFFIX,huffingtonpost.ca
 DOMAIN-SUFFIX,huffingtonpost.co.uk

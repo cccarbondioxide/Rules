@@ -1,5 +1,5 @@
 payload:
-  ## > HBO NOW & HBO GO HKG
+  ## > HBO GO HKG & HBO MAX
   - DOMAIN-SUFFIX,cinemax.com
   - DOMAIN-SUFFIX,forthethrone.com
   - DOMAIN-SUFFIX,hbo.com
@@ -14,13 +14,10 @@ payload:
   - DOMAIN-SUFFIX,hbogoasia.com
   - DOMAIN-SUFFIX,hbogoasia.hk
   - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,hbomaxcdn.com
   - DOMAIN-SUFFIX,hbonow.com
   - DOMAIN-SUFFIX,manifest.prod.boltdns.net
   - DOMAIN-SUFFIX,maxgo.com
-  - DOMAIN-SUFFIX,now-ashare.com
-  - DOMAIN-SUFFIX,now-tv.com
-  - DOMAIN-SUFFIX,now.com.hk
-  - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-SUFFIX,players.brightcove.net
   - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
@@ -29,3 +26,10 @@ payload:
   - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
   - DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
+  ## >> HBO NOW
+  - DOMAIN-SUFFIX,now-ashare.com
+  - DOMAIN-SUFFIX,now-tv.com
+  - DOMAIN-SUFFIX,now.com
+  - DOMAIN-SUFFIX,now.com.hk
+  - DOMAIN-SUFFIX,nowe.com
+  - DOMAIN-SUFFIX,nowe.hk

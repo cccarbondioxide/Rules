@@ -1,6 +1,5 @@
 payload:
   ## > BBC
-  - USER-AGENT,BBCiPlayer*
   - DOMAIN-SUFFIX,bbc
   - DOMAIN-SUFFIX,bbc.co
   - DOMAIN-SUFFIX,bbc.co.uk

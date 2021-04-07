@@ -22,7 +22,7 @@
 
 - # [CableTV](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/CableTV.yaml)
 
-- # [CBS](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/ViacomCBS.yaml)
+- # [CBS](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/CBS.yaml)
 
   - ## Paramount
 

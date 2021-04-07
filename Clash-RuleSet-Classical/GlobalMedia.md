@@ -26,6 +26,8 @@
 
   - ## Paramount
 
+  - ## Pluto TV
+
 - # [CNBC](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/CNBC.yaml)
 
 - # [CNN](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/CNN.yaml)

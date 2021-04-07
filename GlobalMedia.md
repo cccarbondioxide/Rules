@@ -26,6 +26,8 @@
 
   - ## Paramount
 
+  - ## Pluto TV
+
 - # [CNBC](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/CNBC.list)
 
 - # [CNN](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/CNN.list)

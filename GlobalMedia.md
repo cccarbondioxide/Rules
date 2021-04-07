@@ -22,7 +22,7 @@
 
 - # [CableTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/CableTV.list)
 
-- # [CBS](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/CBS.list)
+- # [CBS](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/ViacomCBS.list)
 
   - ## Paramount
 

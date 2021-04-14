@@ -23,6 +23,7 @@ payload:
   ## >> CBS Radio
   - DOMAIN-SUFFIX,cbsradio.com
   ## >> Paramount
+  - PROCESS-NAME,com.cbs.app
   - DOMAIN-SUFFIX,cbsaavideo.com
   - DOMAIN-SUFFIX,cbsi.com
   - DOMAIN-SUFFIX,cbsi.live.ott.irdeto.com

@@ -142,6 +142,7 @@ DOMAIN-SUFFIX,viacomcbspressexpress.com
 ## >> CBS Radio
 DOMAIN-SUFFIX,cbsradio.com
 ## >> Paramount
+PROCESS-NAME,com.cbs.app
 USER-AGENT,PPlus*
 DOMAIN-SUFFIX,cbsaavideo.com
 DOMAIN-SUFFIX,cbsi.com

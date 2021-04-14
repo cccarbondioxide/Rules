@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,c4assets.com
   - DOMAIN-SUFFIX,channel4.com
   ## > Amazon Prime Video
+  - PROCESS-NAME,com.amazon.avod.thirdpartyclient
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-SUFFIX,amazonprimevideo.cn
@@ -207,6 +208,7 @@ payload:
   - DOMAIN-SUFFIX,litix.io
   - DOMAIN-SUFFIX,mobile-collector.newrelic.com
   ## > Disney
+  - PROCESS-NAME,com.disney.disneyplus
   - DOMAIN-SUFFIX,adobedtm.com
   - DOMAIN-SUFFIX,adventuresbydisney.com
   - DOMAIN-SUFFIX,babble.com
@@ -319,6 +321,7 @@ payload:
   - DOMAIN-SUFFIX,thisispolaris.com
   - DOMAIN-SUFFIX,watchdisneyfe.com
   ## >> ABC
+  - PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
   - DOMAIN-SUFFIX,abc-studios.com
   - DOMAIN-SUFFIX,abc.com
   - DOMAIN-SUFFIX,edgedatg.com
@@ -614,6 +617,7 @@ payload:
   - DOMAIN-SUFFIX,fetnet.net
   - DOMAIN-SUFFIX,friday.tw
   ## > HBO GO HKG & HBO MAX
+  - PROCESS-NAME,com.hbo.hbonow
   - DOMAIN-SUFFIX,cinemax.com
   - DOMAIN-SUFFIX,forthethrone.com
   - DOMAIN-SUFFIX,hbo.com
@@ -665,6 +669,7 @@ payload:
   - DOMAIN-SUFFIX,huffpostbrasil.com
   - DOMAIN-SUFFIX,huffpostmaghreb.com
   ## > Hulu
+  - PROCESS-NAME,com.hulu.plus
   - DOMAIN-SUFFIX,112263.com
   - DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net
   - DOMAIN-SUFFIX,callhulu.com
@@ -799,6 +804,7 @@ payload:
   - DOMAIN-SUFFIX,naver.com
   - DOMAIN-SUFFIX,smartmediarep.com
   ## > Netflix
+  - PROCESS-NAME,com.netflix.mediaclient
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,netflix.ca
   - DOMAIN-SUFFIX,netflix.com
@@ -1084,6 +1090,7 @@ payload:
   - DOMAIN-SUFFIX,vimeostatus.com
   - DOMAIN-SUFFIX,livestream.com
   ## > ViuTV
+  - PROCESS-NAME,com.vuclip.viu
   - DOMAIN-SUFFIX,viu.com
   - DOMAIN-SUFFIX,viu.tv
   - DOMAIN-SUFFIX,viu.now.com

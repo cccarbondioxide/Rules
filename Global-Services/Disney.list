@@ -1,4 +1,5 @@
 ## > Disney
+PROCESS-NAME,com.disney.disneyplus
 USER-AGENT,Disney+*
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,adventuresbydisney.com
@@ -112,6 +113,7 @@ DOMAIN-SUFFIX,thestationbymaker.com
 DOMAIN-SUFFIX,thisispolaris.com
 DOMAIN-SUFFIX,watchdisneyfe.com
 ## >> ABC
+PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
 DOMAIN-SUFFIX,abc-studios.com
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,edgedatg.com

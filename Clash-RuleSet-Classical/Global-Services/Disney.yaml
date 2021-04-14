@@ -1,5 +1,6 @@
 payload:
   ## > Disney
+  - PROCESS-NAME,com.disney.disneyplus
   - DOMAIN-SUFFIX,adobedtm.com
   - DOMAIN-SUFFIX,adventuresbydisney.com
   - DOMAIN-SUFFIX,babble.com
@@ -112,6 +113,7 @@ payload:
   - DOMAIN-SUFFIX,thisispolaris.com
   - DOMAIN-SUFFIX,watchdisneyfe.com
   ## >> ABC
+  - PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
   - DOMAIN-SUFFIX,abc-studios.com
   - DOMAIN-SUFFIX,abc.com
   - DOMAIN-SUFFIX,edgedatg.com

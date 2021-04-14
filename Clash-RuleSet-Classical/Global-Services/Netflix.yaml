@@ -1,5 +1,6 @@
 payload:
   ## > Netflix
+  - PROCESS-NAME,com.netflix.mediaclient
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,netflix.ca
   - DOMAIN-SUFFIX,netflix.com

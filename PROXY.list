@@ -3618,6 +3618,11 @@ IP-CIDR6,2a0b:e44:1::/48,no-resolve
 IP-CIDR6,2a0b:e45:1::/48,no-resolve
 ## > MegaUp
 DOMAIN-SUFFIX,megaup.net
+## > momoshop
+DOMAIN-SUFFIX,momo.dm
+DOMAIN-SUFFIX,momo5188.com
+DOMAIN-SUFFIX,momomall.com.tw
+DOMAIN-SUFFIX,momoshop.com.tw
 ## > Mozilla
 ## >> Bugzilla
 DOMAIN-SUFFIX,bugzilla.org
@@ -4308,6 +4313,12 @@ DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net
 DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net
 ## >> MOOV
 DOMAIN-SUFFIX,moov.hk
+## > PChome
+DOMAIN-SUFFIX,ecapi-pchome.cdn.hinet.net
+DOMAIN-SUFFIX,ecimg.tw
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,pchomepay.com.tw
+DOMAIN-SUFFIX,pcloud.tw
 ## > Phantomjs
 DOMAIN-SUFFIX,phantomjs.org
 ## > Picsee
@@ -4437,9 +4448,16 @@ DOMAIN-SUFFIX,ebates.com
 DOMAIN-SUFFIX,infoseek.co.jp
 DOMAIN-SUFFIX,o50.jp
 DOMAIN-SUFFIX,r10.to
+DOMAIN-SUFFIX,r10s.com
 DOMAIN-SUFFIX,r10s.jp
+DOMAIN-SUFFIX,rakuten-static.com
+DOMAIN-SUFFIX,rakuten.ca
 DOMAIN-SUFFIX,rakuten.co.jp
 DOMAIN-SUFFIX,rakuten.com
+DOMAIN-SUFFIX,rakuten.com.tw
+DOMAIN-SUFFIX,rakuten.tw
+DOMAIN-SUFFIX,rclon.com
+DOMAIN-SUFFIX,rebates.jp
 DOMAIN-SUFFIX,showtime.co.jp
 ## >> Viber
 DOMAIN-SUFFIX,viber.co.jp
@@ -7209,7 +7227,6 @@ DOMAIN-SUFFIX,ebtcbank.com
 DOMAIN-SUFFIX,ecfa.org.tw
 DOMAIN-SUFFIX,echainhost.com
 DOMAIN-SUFFIX,echofon.com
-DOMAIN-SUFFIX,ecimg.tw
 DOMAIN-SUFFIX,ecministry.net
 DOMAIN-SUFFIX,economist.com
 DOMAIN-SUFFIX,ecsm.vs.com
@@ -9329,7 +9346,6 @@ DOMAIN-SUFFIX,pcanywhere.net
 DOMAIN-SUFFIX,pcc.gov.tw
 DOMAIN-SUFFIX,pcdvd.com.tw
 DOMAIN-SUFFIX,pcgeekblog.com
-DOMAIN-SUFFIX,pchome.com.tw
 DOMAIN-SUFFIX,pcij.org
 DOMAIN-SUFFIX,pcloud.com
 DOMAIN-SUFFIX,pcstore.com.tw

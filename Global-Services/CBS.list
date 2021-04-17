@@ -36,4 +36,5 @@ DOMAIN-SUFFIX,pplusstatic.com
 ## >> Pluto TV
 DOMAIN-SUFFIX,pluto.tv
 ## >> ShowTime
+PROCESS-NAME,com.showtime.standalone
 DOMAIN-SUFFIX,showtime.com

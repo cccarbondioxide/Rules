@@ -155,6 +155,7 @@ payload:
   ## >> Pluto TV
   - DOMAIN-SUFFIX,pluto.tv
   ## >> ShowTime
+  - PROCESS-NAME,com.showtime.standalone
   - DOMAIN-SUFFIX,showtime.com
   ## > CNBC
   - DOMAIN-SUFFIX,cnbc.com
@@ -1154,6 +1155,7 @@ payload:
   - DOMAIN-SUFFIX,voazimbabwe.com
   - DOMAIN-SUFFIX,zeriamerikes.com
   ## > WeTV
+  - PROCESS-NAME,com.tencent.qqlivei18n.us
   - DOMAIN-SUFFIX,wetv.vip
   - DOMAIN-SUFFIX,wetvinfo.com
   - DOMAIN-SUFFIX,v.smtcdns.com

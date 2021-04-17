@@ -1907,6 +1907,7 @@ DOMAIN-SUFFIX,hupujrs.com
 DOMAIN-SUFFIX,shihuo.cn
 DOMAIN-SUFFIX,vwanjia.com
 ## > iQIYI (爱奇艺)
+PROCESS-NAME,com.qiyi.video
 USER-AGENT,iQiYi*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*

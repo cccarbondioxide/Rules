@@ -737,6 +737,9 @@ DOMAIN-SUFFIX,yb.uncn.jp
 ## > 华文电视
 DOMAIN-SUFFIX,5itv.tv
 DOMAIN-SUFFIX,ocnttv.com
+## > iQIYI 国际站
+PROCESS-NAME,com.iqiyi.i18n
+DOMAIN-SUFFIX,iq.com
 ## > iTalkBB
 DOMAIN-SUFFIX,italkbb.com
 DOMAIN-SUFFIX,italkbbtv.com

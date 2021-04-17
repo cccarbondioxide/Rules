@@ -6179,10 +6179,11 @@ payload:
   - DOMAIN-SUFFIX,smartisan.com
   - DOMAIN-SUFFIX,smartisanos.cn
   - DOMAIN-SUFFIX,smartisanos.com
-  ## >> 抖音
+  ## >> 艾特迷
   - DOMAIN-SUFFIX,amemv.cn
   - DOMAIN-SUFFIX,amemv.com
   - DOMAIN-SUFFIX,amemv.net
+  ## >> 抖音
   - DOMAIN-SUFFIX,douyin.com
   - DOMAIN-SUFFIX,douyinact.com
   - DOMAIN-SUFFIX,douyinact.net
@@ -6190,12 +6191,18 @@ payload:
   - DOMAIN-SUFFIX,douyinclips.com
   - DOMAIN-SUFFIX,douyinmusicclips.com
   - DOMAIN-SUFFIX,douyinmusicvideo.com
+  - DOMAIN-SUFFIX,douyinpic.com
   - DOMAIN-SUFFIX,douyinshortvideo.com
+  - DOMAIN-SUFFIX,douyinstatic.com
   - DOMAIN-SUFFIX,douyinvideo.net
+  - DOMAIN-SUFFIX,douyinvod.com
   - DOMAIN-SUFFIX,dymusictape.com
   - DOMAIN-SUFFIX,dymusicvideo.com
   - DOMAIN-SUFFIX,dyshortvideo.com
   - DOMAIN-SUFFIX,dyvideotape.com
+  - DOMAIN-SUFFIX,idouyinpic.com
+  - DOMAIN-SUFFIX,idouyinstatic.com
+  - DOMAIN-SUFFIX,idouyinvod.com
   - DOMAIN-SUFFIX,iesdouyin.com
   - DOMAIN-SUFFIX,iesdouyin.net
   ## >> 好运万年历
@@ -6207,7 +6214,6 @@ payload:
   - DOMAIN-SUFFIX,luckycalendar.cn
   ## >> 火山网
   - DOMAIN-SUFFIX,aihst8.com
-  - DOMAIN-SUFFIX,betastar.cn
   - DOMAIN-SUFFIX,hotsoonapp.cn
   - DOMAIN-SUFFIX,hotsoonapp.com
   - DOMAIN-SUFFIX,hotsoonapp.net
@@ -6219,11 +6225,14 @@ payload:
   - DOMAIN-SUFFIX,hotsoonzb.net
   - DOMAIN-SUFFIX,huoshan.com
   - DOMAIN-SUFFIX,huoshangroup.com
+  - DOMAIN-SUFFIX,huoshanimg.com
   - DOMAIN-SUFFIX,huoshanlive.com
   - DOMAIN-SUFFIX,huoshanparty.com
+  - DOMAIN-SUFFIX,huoshanstatic.com
   - DOMAIN-SUFFIX,huoshante8.com
   - DOMAIN-SUFFIX,huoshanvideo.cn
   - DOMAIN-SUFFIX,huoshanvideo.net
+  - DOMAIN-SUFFIX,huoshanvod.com
   - DOMAIN-SUFFIX,huoshanxiaoshipin.cn
   - DOMAIN-SUFFIX,huoshanxiaoshipin.net
   - DOMAIN-SUFFIX,huoshanzhibo.cn
@@ -6238,9 +6247,15 @@ payload:
   - DOMAIN-SUFFIX,ieshuoshan.com
   - DOMAIN-SUFFIX,ieshuoshan.net
   - DOMAIN-SUFFIX,ihst8.com
-  - DOMAIN-SUFFIX,kolbuyer.cn
+  - DOMAIN-SUFFIX,ihuoshanimg.com
+  - DOMAIN-SUFFIX,ihuoshanvod.com
   - DOMAIN-SUFFIX,woaihuoshan.com
   - DOMAIN-SUFFIX,wohst8.com
+  ## >> 曲奇剪辑
+  - DOMAIN-SUFFIX,cookicut.com
+  ## >> 星图
+  - DOMAIN-SUFFIX,betastar.cn
+  - DOMAIN-SUFFIX,kolbuyer.cn
   ## >> 健康百科
   - DOMAIN-SUFFIX,healthybaike.com
   ## >> 巨量引擎

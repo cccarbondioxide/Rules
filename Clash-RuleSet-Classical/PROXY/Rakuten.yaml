@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,rakuten.co.jp
   - DOMAIN-SUFFIX,rakuten.com
   - DOMAIN-SUFFIX,rakuten.com.tw
+  - DOMAIN-SUFFIX,rakuten.ne.jp
   - DOMAIN-SUFFIX,rakuten.tw
   - DOMAIN-SUFFIX,rclon.com
   - DOMAIN-SUFFIX,rebates.jp

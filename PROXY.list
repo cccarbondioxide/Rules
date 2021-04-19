@@ -4455,6 +4455,7 @@ DOMAIN-SUFFIX,rakuten.ca
 DOMAIN-SUFFIX,rakuten.co.jp
 DOMAIN-SUFFIX,rakuten.com
 DOMAIN-SUFFIX,rakuten.com.tw
+DOMAIN-SUFFIX,rakuten.ne.jp
 DOMAIN-SUFFIX,rakuten.tw
 DOMAIN-SUFFIX,rclon.com
 DOMAIN-SUFFIX,rebates.jp
@@ -4540,10 +4541,13 @@ DOMAIN-SUFFIX,shopifysvc.com
 ## > Signal
 DOMAIN-SUFFIX,signal.org
 ## > Slack
+DOMAIN-SUFFIX,slack-core.com
 DOMAIN-SUFFIX,slack-edge.com
-DOMAIN-SUFFIX,slack.com
-DOMAIN-SUFFIX,slack-msgs.com
+DOMAIN-SUFFIX,slack-files.com
 DOMAIN-SUFFIX,slack-imgs.com
+DOMAIN-SUFFIX,slack-msgs.com
+DOMAIN-SUFFIX,slack-redir.net
+DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,slackb.com
 DOMAIN-SUFFIX,slackcertified.com
 DOMAIN-SUFFIX,slackdemo.com

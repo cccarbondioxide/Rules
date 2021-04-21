@@ -170,9 +170,10 @@ payload:
   - DOMAIN-SUFFIX,cnnlabs.com
   - DOMAIN-SUFFIX,cnnmoney.ch
   ## > Dailymotion
+  - DOMAIN-SUFFIX,dai.ly
   - DOMAIN-SUFFIX,dailymotion.com
-  - DOMAIN-SUFFIX,dmcdn.net
   - DOMAIN-SUFFIX,dm-event.net
+  - DOMAIN-SUFFIX,dmcdn.net
   - DOMAIN-SUFFIX,dmxleo.com
   ## > DAZN
   - DOMAIN-SUFFIX,control.kochava.com

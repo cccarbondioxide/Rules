@@ -1005,6 +1005,8 @@ DOMAIN,sonyliveevents-nonssai.akamaized.net
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
 ## > Spotify
+PROCESS-NAME,com.spotify.music
+USER-AGENT,Spotify*
 DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net

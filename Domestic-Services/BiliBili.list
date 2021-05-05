@@ -1,5 +1,6 @@
 ## 📺 哔哩哔哩
 ## > Bilibili
+PROCESS-NAME,tv.danmaku.bili
 USER-AGENT,*bili*
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com

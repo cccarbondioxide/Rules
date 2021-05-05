@@ -1100,6 +1100,7 @@ DOMAIN-SUFFIX,mlmtz.com
 DOMAIN-SUFFIX,zhanqi.tv
 DOMAIN-SUFFIX,zhanqu.tv
 ## > 哔哩哔哩
+PROCESS-NAME,tv.danmaku.bili
 USER-AGENT,*bili*
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com

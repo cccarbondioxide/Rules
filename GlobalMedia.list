@@ -746,6 +746,7 @@ DOMAIN-SUFFIX,ocnttv.com
 PROCESS-NAME,com.iqiyi.i18n
 DOMAIN-SUFFIX,iq.com
 ## > iTalkBB
+PROCESS-NAME,com.italkbbtv.phone
 DOMAIN-SUFFIX,italkbb.com
 DOMAIN-SUFFIX,italkbbtv.com
 ## > ITV

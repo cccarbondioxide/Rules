@@ -854,7 +854,6 @@ payload:
   - DOMAIN,zer0day.to
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
-  - DOMAIN-KEYWORD,tracker
   - IP-CIDR,5.2.79.22/32,no-resolve
   - IP-CIDR,5.206.3.65/32,no-resolve
   - IP-CIDR,5.206.38.65/32,no-resolve

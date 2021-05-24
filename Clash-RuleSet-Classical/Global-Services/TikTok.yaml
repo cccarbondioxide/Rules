@@ -1,5 +1,6 @@
 payload:
   ## > TikTok
+  - PROCESS-NAME,com.zhiliaoapp.musically
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
   - DOMAIN-SUFFIX,byteoversea.com

@@ -1892,12 +1892,6 @@ payload:
   ## > Entrust
   - DOMAIN-SUFFIX,entrust.net
   - DOMAIN-SUFFIX,entrustdatacard.com
-  ## > Espn
-  - DOMAIN-SUFFIX,espn.com
-  - DOMAIN-SUFFIX,espn.net
-  - DOMAIN-SUFFIX,espncdn.com
-  - DOMAIN-SUFFIX,espnqa.com
-  - DOMAIN-SUFFIX,watchespn.com
   ## > Facebook
   - DOMAIN-SUFFIX,aboutfacebook.com
   - DOMAIN-SUFFIX,accessfacebookfromschool.com

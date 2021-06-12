@@ -17,7 +17,6 @@
 | GlobalMedia.list      | 国外常见流媒体服务,详见 [GlobalMedia.md](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/GlobalMedia.md) |
 | Google.list           | Google 服务                                                                                                                      |
 | Microsoft.list        | 微软服务                                                                                                                         |
-| Netflix.list          | Netflix 流媒体服务                                                                                                               |
 | PROXY.list            | 常见国外服务                                                                                                                     |
 | CCC-CN.list           | 中国常见 云计算公司                                                                                                              |
 | CCC-Global.list       | 全球常见 云计算公司                                                                                                              |

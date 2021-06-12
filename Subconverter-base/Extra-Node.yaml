@@ -115,8 +115,26 @@ proxies:
     type: http
     server: 192.168.43.215
     port: '26266'
-    username:
-    password:
+    username: ''
+    password: ''
+    # tls: true # https
+    # skip-cert-verify: true
+    udp: true
+  - name: 106网易云解锁
+    type: http
+    server: 106.52.127.72
+    port: 19951
+    username: ''
+    password: ''
+    # tls: true # https
+    # skip-cert-verify: true
+    udp: true
+  - name: LolicoLi网易云解锁
+    type: http
+    server: music.lolico.me
+    port: 39000
+    username: ''
+    password: ''
     # tls: true # https
     # skip-cert-verify: true
     udp: true
@@ -129,12 +147,23 @@ proxies:
     # tls: true # https
     # skip-cert-verify: true
     udp: true
+  - name: taron.top网易云解锁
+    type: http
+    server: taron.top
+    port: 100
+    username: ''
+    password: ''
+    # tls: true # https
+    # skip-cert-verify: true
+    udp: true
   - name: 如风博客网易云解锁
     type: ss
     server: music.desperadoj.com
     port: '30001'
     cipher: aes-128-gcm
-    password: desperadoj.com
+    password: desperadoj.com_free_proxy_emx2
+    # tls: true # https
+    # skip-cert-verify: true
     udp: true
   - name: 樱花互联网易云解锁
     type: http
@@ -150,7 +179,10 @@ proxy-groups:
     type: select
     proxies:
       - 本地网易云解锁
+      - 106网易云解锁
+      - LolicoLi网易云解锁
       - pcysanji网易云解锁
+      - taron.top网易云解锁
       - 如风博客网易云解锁
       - 樱花互联网易云解锁
 rules:
@@ -166,8 +198,10 @@ rules:
   - DOMAIN-SUFFIX,music.126.net,网易云解锁
   - DOMAIN-SUFFIX,mam.netease.com,网易云解锁
   - DOMAIN-SUFFIX,hz.netease.com,网易云解锁
+  - DOMAIN-SUFFIX,music.163.com.163jiasu.com,网易云解锁
   ## > 网易云音乐 CIDR
   - IP-CIDR,39.105.63.80/32,网易云解锁,no-resolve
+  - IP-CIDR,39.105.175.128/32,网易云解锁,no-resolve
   - IP-CIDR,45.254.48.1/32,网易云解锁,no-resolve
   - IP-CIDR,47.100.127.239/32,网易云解锁,no-resolve
   - IP-CIDR,59.111.21.14/31,网易云解锁,no-resolve
@@ -183,10 +217,13 @@ rules:
   - IP-CIDR,103.126.92.132/31,网易云解锁,no-resolve
   - IP-CIDR,103.126.92.133/32,网易云解锁,no-resolve
   - IP-CIDR,112.13.119.17/32,网易云解锁,no-resolve
+  - IP-CIDR,112.13.119.18/32,网易云解锁,no-resolve
   - IP-CIDR,112.13.122.1/32,网易云解锁,no-resolve
+  - IP-CIDR,112.13.122.4/32,网易云解锁,no-resolve
   - IP-CIDR,115.236.118.33/32,网易云解锁,no-resolve
   - IP-CIDR,115.236.121.1/32,网易云解锁,no-resolve
   - IP-CIDR,118.24.63.156/32,网易云解锁,no-resolve
+  - IP-CIDR,182.92.170.253/32,网易云解锁,no-resolve
   - IP-CIDR,193.112.159.225/32,网易云解锁,no-resolve
   - IP-CIDR,223.252.199.66/31,网易云解锁,no-resolve
   - IP-CIDR,223.252.199.67/32,网易云解锁,no-resolve

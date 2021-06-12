@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,battlenet.com
   - DOMAIN-SUFFIX,blizzard.cn
   - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,blizzardgames.cn
   - DOMAIN-SUFFIX,blizzardgearstore.com
   - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
   - DOMAIN-SUFFIX,blz-contentstack.com
@@ -518,6 +519,7 @@ payload:
   - DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
   - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamvideo-a.akamaihd.net
   - DOMAIN-SUFFIX,underlords.com
   - DOMAIN-SUFFIX,valvesoftware.com
   - DOMAIN-KEYWORD,steamstore
@@ -557,6 +559,7 @@ payload:
   - DOMAIN-SUFFIX,xboxone.com
   - DOMAIN-SUFFIX,xboxone.eu
   - DOMAIN-SUFFIX,xboxplayanywhere.com
+  - DOMAIN-SUFFIX,xboxservices.com
   - DOMAIN-SUFFIX,xboxstudios.com
   - DOMAIN-SUFFIX,xbx.lv
   ## >> Mojang

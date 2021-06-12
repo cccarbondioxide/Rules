@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,telesco.pe
   - DOMAIN-SUFFIX,graph.org
   - PROCESS-NAME,Telegram.exe
+  - PROCESS-NAME,nekox.messenger
   - PROCESS-NAME,org.telegram.messenger
   ## > Telegram CIDR
   - IP-CIDR,91.108.4.0/22,no-resolve
@@ -25,7 +26,7 @@ payload:
   - IP-CIDR,91.108.56.0/22,no-resolve
   - IP-CIDR,95.161.64.0/20,no-resolve
   - IP-CIDR,109.239.140.0/24,no-resolve
-  - IP-CIDR,149.154.160.0/22,no-resolve
+  - IP-CIDR,149.154.160.0/20,no-resolve
   - IP-CIDR,149.154.164.0/22,no-resolve
   - IP-CIDR,149.154.164.8/29,no-resolve
   - IP-CIDR,149.154.164.250/32,no-resolve
